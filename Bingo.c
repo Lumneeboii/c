@@ -1,7 +1,7 @@
 /* 
 
 Author   : Prahlad J Shenoy.(Lumnee boii)
-Mentor   : ShivaShanker.
+Mentor   : ShivaShankaran.
 College  : Jaya Engneering College.
 category : Game.
 
